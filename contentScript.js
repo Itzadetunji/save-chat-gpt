@@ -27,4 +27,6 @@
 			youtubeLeftControls.appendChild(bookmarkBtn);
 		}
 	};
+
+	newVideoLoaded();
 })();
